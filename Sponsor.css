@@ -1,0 +1,174 @@
+
+    img.cloud1 {
+        width: 200px;
+        height: 100px;
+        margin: auto 200px;
+        float: left;
+    }
+    img.cloud2 {
+        width: 200px;
+        height: 100px;
+        margin: auto -45px;
+    }
+    img.cloud3 {
+        width: 200px;
+        height: 100px;
+        margin: auto 180px;
+        float: right;
+    }
+    p.home {
+        color: black;
+        font-weight: bold;
+        font-size: x-large;
+        position: absolute;
+        top: 25px;
+        left: 20%
+    }
+    p.sponsorsC {
+        color: black;
+        font-weight: bold;
+        font-size: x-large;
+        position: absolute;
+        top: 25px;
+        left: 46%;
+    }
+    p.aboutus {
+        color: black;
+        font-weight: bold;
+        font-size: x-large;
+        position: absolute;
+        top: 25px;
+        right: 20%;
+    }
+    .sponsorB {
+        height: 50px;
+        width: 200px; 
+        left: 550px;
+        top: 170px;
+        position: absolute;
+        background-color: rgb(94, 54, 1);
+        border-color: black;
+        border-style: solid;
+    }
+    p.sponsors {
+        color: black;
+        font-weight: bold;
+        font-size: x-large;
+        position: absolute;
+        top: 160px;
+        left: 585px;
+    }
+    .packageB {
+        height: 200px;
+        width: 350px; 
+        top: 275px;
+        left: 80px;
+        position: absolute;
+        background-color: rgb(94, 54, 1);
+        border-color: black;
+        border-style: solid;
+    }
+    .donateB {
+        height: 200px;
+        width: 350px; 
+        top: 275px;
+        left: 470px;
+        position: absolute;
+        background-color: rgb(94, 54, 1);
+        border-color: black;
+        border-style: solid;
+    }
+    .financesB {
+        height: 200px;
+        width: 350px; 
+        top: 275px;
+        left: 860px;
+        position: absolute;
+        background-color: rgb(94, 54, 1);
+        border-color: black;
+        border-style: solid;
+    }
+    p.packageT {
+        color: black;
+        font-weight: bold;
+        font-size: x-large;
+        position: absolute;
+        top: 270px;
+        left: 100px;
+    }
+    p.donateT {
+        color: black;
+        font-weight: bold;
+        font-size: x-large;
+        position: absolute;
+        top: 270px;
+        left: 490px;
+    }
+    p.financesT {
+        color: black;
+        font-weight: bold;
+        font-size: x-large;
+        position: absolute;
+        top: 270px;
+        left: 880px;
+    }
+    p.packageD {
+        color: black;
+        font-size: large;
+        position: absolute;
+        top: 320px;
+        left: 100px;
+    }
+    p.donateD {
+        color: black;
+        font-size: large;
+        position: absolute;
+        top: 320px;
+        left: 490px;
+    }
+    p.financesD {
+        color: black;
+        font-size: large;
+        position: absolute;
+        top: 320px;
+        left: 880px;
+    }
+    .button1 {
+        background-color: rgb(70, 39, 0);
+        border-color: black;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        top: 420px;
+        left: 150px;
+        position: absolute;
+    }
+    .button2 {
+        background-color: rgb(70, 39, 0);
+        border-color: black;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        top: 420px;
+        left: 590px;
+        position: absolute;
+    }
+    .button3 {
+        background-color: rgb(70, 39, 0);
+        border-color: black;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        top: 420px;
+        left: 960px;
+        position: absolute;
+    }
